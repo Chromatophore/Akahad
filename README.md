@@ -1,7 +1,7 @@
 # Akahad
 This was my XO-Chip submission for Octojam 8. It is (as of writing) easily playable at https://chromatophore.itch.io/akahad
 
-![alt text](Resources\akahad_logo.gif "Akahad animation")
+![alt text](Resources/akahad_logo.gif "Akahad animation")
 
 It's written for Octo, a high-level assembler for Chip 8, an 8 bit assembly language from the 1970s: https://github.com/JohnEarnest/Octo
 
